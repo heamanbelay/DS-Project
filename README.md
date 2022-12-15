@@ -6,6 +6,7 @@ Heamen, this is empty repository. Is there anything that I can help you? Please 
 2. we run server.c and get this output "Server is alive and waiting for socket connection from client."
    then we run client.c and get this output "Client is alive and establishing socket connection."
    
+   
 5. After giving our computer's IP address , the client responds: 
  "Client has received 1 from socket"
  "Client has received 2 from socket"
