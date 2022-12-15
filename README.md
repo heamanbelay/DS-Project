@@ -29,3 +29,5 @@ Heamen, this is empty repository. Is there anything that I can help you? Please 
   "Server has written 9 to socket"
   "Server has written 10 to socket"
 6. we run netclient while netserv is not running, and there happen to be an error or there is no connection established.
+
+
