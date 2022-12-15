@@ -5,6 +5,7 @@ Heamen, this is empty repository. Is there anything that I can help you? Please 
 
 2. we run server.c and get this output "Server is alive and waiting for socket connection from client."
    then we run client.c and get this output "Client is alive and establishing socket connection."
+   
 5. After giving our computer's IP address , the client responds: 
  "Client has received 1 from socket"
  "Client has received 2 from socket"
@@ -28,6 +29,7 @@ Heamen, this is empty repository. Is there anything that I can help you? Please 
   "Server has written 8 to socket"
   "Server has written 9 to socket"
   "Server has written 10 to socket"
+  
 6. we run netclient while netserv is not running, and there happen to be an error or there is no connection established.
 
 
